@@ -1,4 +1,4 @@
-# Basic platformer
+# Basic 2D Platformer
 
 This is my first try to ever develop a game-like JS with a lot of TODOs in it. It's still in progress so keep in mind it's sometimes unplayable. You just need a basic server running (i.e. a VSCode extension).
 
